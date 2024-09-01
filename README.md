@@ -17,5 +17,5 @@ I am a Computer Science graduate from the University of the Philippines Visayas 
 - Linux
 
 # Projects
-- [https://github.com/jbeninjaa/GoUp]
-- [https://github.com/jbeninjaa/Rescue-Pets]
+- ![https://github.com/jbeninjaa/GoUp]
+- ![https://github.com/jbeninjaa/Rescue-Pets]
