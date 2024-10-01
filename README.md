@@ -1,5 +1,6 @@
-# Jayven Lupera
-I am a Computer Science graduate from the University of the Philippines Visayas making my digital print, one line of code at a time. Here are some of my projects during and after my studies. 
+# Jayven Lupera's GitHub Portfolio 
+
+Welcome to my GitHub portfolio! I am a Computer Science graduate from the University of the Philippines Visayas making my digital print, one line of code at a time.  This repository showcases various projects I’ve worked on, ranging from web scraping, and machine learning, to full-stack development during and after my studies. Feel free to explore my projects and reach out if you'd like to collaborate!
 
 ## Languages
 - Python
