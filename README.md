@@ -22,8 +22,3 @@ Developed a web application system for an animal rehabilitation and rescue cente
 ### [Wikipedia Summary Generator](https://github.com/jbeninjaa/Web-Scraping/tree/9fe1a6cef41992ead64a5c41f60c77bc6e182143/Project-0)
 - The goal of this project is to scrape full Wikipedia articles and generate automatic summaries using Natural Language Processing (NLP) techniques. The project utilizes the Python-NLTK Library to handle the summarization and text processing.
 
-#### Features
-- Web Scraping: The program fetches full Wikipedia articles using requests and BeautifulSoup libraries.
-- Text Summarization: Using NLP methods from the NLTK library, the scraped content is processed and summarized into concise information.
-Project Overview
-
