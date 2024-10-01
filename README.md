@@ -5,10 +5,10 @@ Welcome to my GitHub portfolio! I am a Computer Science graduate from the Univer
 | 💻 Languages   | 📚 Libraries and Frameworks | 🖥️ Operating Systems | 🛠️ Tech and Tools  |
 |----------------|-----------------------------|----------------------|--------------------|
 | - Python       | - Scikit-learn              | - Windows            | - Git              |
-| - JavaScript   | - Django                    | - Linux              | - MySQL            |
-| - PHP          | - nltk                      |               | -    Excel         |
-| - C#           |                             |                    | -        |
-|                |                             |                      | -             |
+| - JavaScript   | - nltk                     | - Linux              | - MySQL            |
+| - PHP          | - Pandas                      |                       | -    Excel         |
+| - C#           |  |                        | - Jupyter Notebook       |
+|                |  |                        | - VS Code              |
 
 ## Framework
 - React
