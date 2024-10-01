@@ -20,4 +20,10 @@ Welcome to my GitHub portfolio! I am a Computer Science graduate from the Univer
 Developed a web application system for an animal rehabilitation and rescue center to provide better engagement by implementing a gamification feature which is a virtual pet that interacts with the transactions of the user. Allows the user to create an account and log in using Google’s federated authentication for convenience, gamification is applied in the system by recording the engagement of the user with the system by the use of virtual points. Every transaction made by the user has equivalent virtual points that enable the user’s virtual pets to level up.
 
 ### [Wikipedia Summary Generator](https://github.com/jbeninjaa/Web-Scraping/tree/9fe1a6cef41992ead64a5c41f60c77bc6e182143/Project-0)
+- The goal of this project is to scrape full Wikipedia articles and generate automatic summaries using Natural Language Processing (NLP) techniques. The project utilizes the Python-NLTK Library to handle the summarization and text processing.
+
+#### Features
+- Web Scraping: The program fetches full Wikipedia articles using requests and BeautifulSoup libraries.
+- Text Summarization: Using NLP methods from the NLTK library, the scraped content is processed and summarized into concise information.
+Project Overview
 
