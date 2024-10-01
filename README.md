@@ -2,11 +2,12 @@
 
 Welcome to my GitHub portfolio! I am a Computer Science graduate from the University of the Philippines Visayas making my digital print, one line of code at a time.  This repository showcases various projects I’ve worked on, ranging from web scraping, and machine learning, to full-stack development during and after my studies. Feel free to explore my projects and reach out if you'd like to collaborate!
 
-## Languages
-- Python
-- JavaScript
-- PHP
-- C#
+| Languages | Libraries and Frameworks | Operating Systems | Tech and Tools
+|----|----|----|----|
+| - Python |
+| - JavaScript |
+| - PHP |
+| - C# |
 
 ## Framework
 - React
